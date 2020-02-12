@@ -9,7 +9,7 @@ public class Service {
 
 	@GetMapping(path = "/hello")
 	public String sayHello() {
-		return "Hello CICD V1!";
+		return "Hello CICD V2!";
 	}
 
 }
